@@ -16,7 +16,6 @@ Result Page with a random Quote :-
   <img src="https://raw.githubusercontent.com/Rohit-Varshney001/BMI-App/main/Screenshot_20240229_121256.png" width="200" height="400"   />
 </p>
 
-<p>
-Here's the link of the app you can download and try it:
-<center> https://drive.google.com/file/d/1Z8Py_GC9NyZZSrCZD8i8BQPhJmYby7as/view?usp=sharing</center>
+<p align="center">
+  <b>Download and try the app from <i><a href = "https://drive.google.com/file/d/1Z8Py_GC9NyZZSrCZD8i8BQPhJmYby7as/view?usp=sharing">Here</i></b>
 </p>
